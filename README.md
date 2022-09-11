@@ -1,7 +1,13 @@
 
 <h3>Mongo DB</h3>
 
-  
+First Part
+<a href="https://medium.com/@taylan.ulun/introduction-to-mongodb-for-anyone-part-1-e5180f4065e8"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp; 
+
+Second Part
+<a href="https://medium.com/@taylan.ulun/introduction-to-mongodb-for-anyone-part-2-44c48c8985ce"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>&nbsp;&nbsp; 
+
+
 
 **Chapter 1**
 
